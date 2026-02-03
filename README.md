@@ -26,4 +26,5 @@ This metapackage provides access to all Hyvä AI providers.
 1. Run `bin/magento setup:upgrade`
 
 ## Documentation
-Coming soon.
+
+[https://docs.hyva.io/hyva-themes/ai/features-providers/index.html](https://docs.hyva.io/hyva-themes/ai/features-providers/index.html)
