@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 [Unreleased]: https://gitlab.hyva.io/hyva-themes/ai/metapackage-ai-providers/-/compare/1.1.0...main
 
 ### Added
-- Nothing addded
+- Nothing added
 
 ### Changed
 - Nothing changed
