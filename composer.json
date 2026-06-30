@@ -4,8 +4,8 @@
   "type": "metapackage",
   "require": {
     "hyva-themes/magento2-module-ai-deep-l": "^1.0",
-    "hyva-themes/magento2-module-ai-gemini": "^1.0",
-    "hyva-themes/magento2-module-ai-open-ai": "^1.0"
+    "hyva-themes/magento2-module-ai-gemini": "^1.1",
+    "hyva-themes/magento2-module-ai-open-ai": "^1.1"
   },
   "authors": [{
     "name": "Hyvä Themes B.V.",
