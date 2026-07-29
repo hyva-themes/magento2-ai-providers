@@ -17,6 +17,7 @@ This metapackage provides access to all Hyvä AI providers.
     ```
     composer config repositories.hyva-themes/magento2-ai-providers git git@gitlab.hyva.io:hyva-themes/ai/metapackage-ai-providers.git
     composer config repositories.hyva-themes/magento2-module-ai git git@gitlab.hyva.io:hyva-themes/ai/module-ai.git
+    composer config repositories.hyva-themes/magento2-module-ai-anthropic git git@gitlab.hyva.io:hyva-themes/ai/module-ai-anthropic.git
     composer config repositories.hyva-themes/magento2-module-ai-deep-l git git@gitlab.hyva.io:hyva-themes/ai/module-ai-deep-l.git
     composer config repositories.hyva-themes/magento2-module-ai-gemini git git@gitlab.hyva.io:hyva-themes/ai/module-ai-gemini.git
     composer config repositories.hyva-themes/magento2-module-ai-open-ai git git@gitlab.hyva.io:hyva-themes/ai/module-ai-open-ai.git
