@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
-[Unreleased]: https://gitlab.hyva.io/hyva-themes/ai/metapackage-ai-providers/-/compare/1.1.0...main
+[Unreleased]: https://gitlab.hyva.io/hyva-themes/ai/metapackage-ai-providers/-/compare/1.2.0...main
 
 ### Added
 - Nothing added
@@ -18,6 +18,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 - Nothing removed
+
+## [1.2.0] - 2026-07-29
+
+### Added
+- Anthropic provider
 
 ## [1.1.0] - 2026-06-30
 
